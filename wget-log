@@ -1,0 +1,12 @@
+--2019-05-18 22:07:28--  https://github.com/atom/atom/releases/download/v1.9.2/atom-amd64.deb
+Resolving github.com (github.com)... 192.30.253.112
+Connecting to github.com (github.com)|192.30.253.112|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github-production-release-asset-2e65be.s3.amazonaws.com/3228505/42e47c84-58d8-11e6-8a10-89ce89f6f73d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190518T163730Z&X-Amz-Expires=300&X-Amz-Signature=b0e73bb564f3a1e8ac196bc2f26c3e3fe90eda145f16e11f4ea3cfe9574a3cf1&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Datom-amd64.deb&response-content-type=application%2Foctet-stream [following]
+--2019-05-18 22:07:29--  https://github-production-release-asset-2e65be.s3.amazonaws.com/3228505/42e47c84-58d8-11e6-8a10-89ce89f6f73d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190518T163730Z&X-Amz-Expires=300&X-Amz-Signature=b0e73bb564f3a1e8ac196bc2f26c3e3fe90eda145f16e11f4ea3cfe9574a3cf1&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Datom-amd64.deb&response-content-type=application%2Foctet-stream
+Resolving github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)... 52.216.171.91
+Connecting to github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.171.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76837146 (73M) [application/octet-stream]
+Saving to: ‘atom-amd64.deb.2’
+
