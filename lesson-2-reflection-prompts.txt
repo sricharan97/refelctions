@@ -1,17 +1,23 @@
 What happens when you initialize a repository? Why do you need to do it?
-When you initialize a repository, Git doesn't create any commits for you. you will have to create the first commit yourself
+-> When you initialize a repository, Git doesn't create any commits for you. you will have to create the first commit yourself
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-staging area can be thought of as an intermediate area between working directory and repository. It gives more control to the user as in what files are to be commited
+-> staging area can be thought of as an intermediate area between working directory and repository. It gives more control to the user as in what files are to be commited
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+-> staging area can act as checking step before committing
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+-> when you want to write two different versions of sam software or experiment with some code without messing up the official working code
+branching helps by creating separate track of the code different from the main branch
 
 How do the diagrams help you visualize the branch structure?
+-> they help us visualize the parent of each commit any standalone commit etc
+ 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
