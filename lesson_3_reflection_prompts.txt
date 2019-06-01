@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   when you are working in a team its better that you create a new branch and work on it. So that when you are about to push the changes,you can push the branch you are working on rather than to the master branch. that way others can give a feedback on your changes before you actually merge in to the master 
